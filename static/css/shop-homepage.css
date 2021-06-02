@@ -1,0 +1,16 @@
+body {
+    padding-top: 56px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.list-group {
+    padding-top: 56px;
+}
+
+.nav-link{
+    text-decoration: none;
+    transition: .2s;
+    position: relative;
+}
